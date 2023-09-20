@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NEP20W8sYSY?si=IHVVPTvNDzBDmISU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Video](https://img.youtube.com/vi/NEP20W8sYSY)](https://www.youtube.com/watch?v=NEP20W8sYSY)
 
 ## Notes
 
