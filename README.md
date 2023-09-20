@@ -25,8 +25,6 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
 ![ezgif com-video-to-gif](https://github.com/SSYernar/Wordle-CodePath-IOS101-Project1/assets/24649928/a54aa7fa-6ee2-406f-becc-7e5b24a9f836)
 
 
